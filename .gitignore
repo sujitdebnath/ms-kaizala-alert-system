@@ -1,3 +1,4 @@
+# Media files
 *.json
 *.png
 *.jpg
@@ -8,3 +9,10 @@
 *.mp3
 *.mp4
 *.mkv
+
+# Directory
+files/
+images/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
